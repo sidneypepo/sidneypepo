@@ -61,8 +61,6 @@ My name is Sidney Pedro, but you can call me as Sidney PEPO or just PEPO and I'm
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Respect%20me-9FEF00?style=social&logo=Hack%20The%20Box)](https://app.hackthebox.eu/profile/311266)  
 [![Steam](https://img.shields.io/badge/Steam-Follow%20me-000000?style=social&logo=Steam)](https://steamcommunity.com/id/sidneypepo/)  
 ![Email](https://img.shields.io/badge/Email-sidneypepo%40pm.me-8B89CC?style=social&logo=ProtonMail)  
-![Discord](https://img.shields.io/badge/Discord-PEPO%230555-7289DA?style=social&logo=Discord)  
-![Telegram](https://img.shields.io/badge/Telegram-%40sidneypepo-26A5E4?style=social&logo=Telegram)  
 </details>
 
 ---
