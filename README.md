@@ -57,6 +57,8 @@ My name is Sidney Pedro, but you can call me as Sidney PEPO or just PEPO and I'm
 [![GitLab](https://img.shields.io/badge/GitLab-Follow%20me-FCA121?style=social&logo=GitLab)](https://gitlab.com/sidneypepo)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20me-0077B5?style=social&logo=LinkedIn)](https://linkedin.com/in/sidneypepo)  
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=social&logo=YouTube)](https://youtube.com/c/ddicas)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-sysb1n-212C42?style=social&logo=TryHackMe)](https://tryhackme.com/p/sysb1n)  
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Respect%20me-9FEF00?style=social&logo=Hack%20The%20Box)](https://app.hackthebox.eu/profile/311266)  
 [![Steam](https://img.shields.io/badge/Steam-Follow%20me-000000?style=social&logo=Steam)](https://steamcommunity.com/id/sidneypepo/)  
 ![Email](https://img.shields.io/badge/Email-sidneypepo%40pm.me-8B89CC?style=social&logo=ProtonMail)  
 ![Discord](https://img.shields.io/badge/Discord-PEPO%230555-7289DA?style=social&logo=Discord)  
