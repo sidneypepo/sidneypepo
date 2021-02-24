@@ -69,16 +69,16 @@ My name is Sidney Pedro, but you can call me as Sidney PEPO or just PEPO and I'm
 ## 「📍️」 Pinned repos</h2></summary>
 <center>
 	<div>
-		<a href="https://github.com/anuraghazra/github-readme-stats">
+		<a href="https://github.com/sidneypepo/waitwhatcrypt">
 			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidneypepo&repo=waitwhatcrypt&bg_color=23252ed9&text_color=ffffff&title_color=ec0101" /></a>
-		<a href="https://github.com/anuraghazra/convoychat">
+		<a href="https://github.com/sidneypepo/kalischemes4termux">
 			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidneypepo&repo=kalischemes4termux&bg_color=23252ed9&text_color=ffffff&title_color=ec0101" /></a>
 	</div>
 	</br>
 	<div>
-		<a href="https://github.com/anuraghazra/github-readme-stats">
+		<a href="https://github.com/sidneypepo/cysecpython2">
 			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidneypepo&repo=cysecpython2&bg_color=23252ed9&text_color=ffffff&title_color=ec0101" /></a>
-		<a href="https://github.com/anuraghazra/convoychat">
+		<a href="https://github.com/sidneypepo/cysecpython">
 			<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidneypepo&repo=cysecpython&bg_color=23252ed9&text_color=ffffff&title_color=ec0101" /></a>
 	</div>
 </center>
