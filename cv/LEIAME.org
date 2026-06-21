@@ -1,0 +1,14 @@
+#+title: LEIAME
+#+author: Sidney PEPO
+#+date: [2026-06-22 Mon]
+
+#+begin_quote
+Para leitores brasileiros: essa página é um mostruário do meu Curriculum Vitae,
+o qual pode ser abreviado como CV. Dito isso, o uso dessa abreviação *NÃO ESTÁ
+RELACIONADA DE MODO ALGUM* com qualquer um dos muitos grupos narco-terroristas
+brasileiros!
+
+Sei que isso é uma nota estranha, mas brasileiros *são mortos* apenas por usarem
+tal abreviação, então acredito que não faça mal adicionar uma nota para ser
+claro e especificar ao que eu me refiro com ela (a abreviação).
+#+end_quote

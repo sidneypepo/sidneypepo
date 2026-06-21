@@ -1,0 +1,20 @@
+#+title: README
+#+author: Sidney PEPO
+#+date: [2026-06-22 Mon]
+
+* Sidney PEPO
+*Detail-oriented cybersecurity researcher with a strong ten-year background in*
+*SecOps, focused on Purple Team operations, specialized in the investigation of*
+*critical widely deployed computational entities. Experienced in collaborating to*
+*complex projects by adopting the leading industry standards for continuous*
+*evaluation, deployment and management of network systems and services. Proven*
+*ability to mitigate threats, improve infrastructure resilience and investigate*
+*barely known security measures up to chipset-level. Committed to solve problems*
+*and lift up the quality baseline of results.*
+
+* Index of main links
+- Website: [[https://sidneypepo.com]]
+
+- Contact: [[mailto:sidneypepo@disroot.org]] ([[file:pgp/0xA188DCCE6CD96D52.asc][PGP key]])
+
+- Curriculum Vitae: [[file:cv/cv.org]] ([[file:cv/cv.pdf][PDF]])

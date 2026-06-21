@@ -1,0 +1,226 @@
+#+begin_export latex
+\section*{\Huge \bfseries \itshape Sidney Pedro de Jesus Silva Pinto}
+\begin{center}
+  \noindent
+  {\color{x-acs-dark-red} \faIcon{map-marker-alt}} Rio Grande do Norte, Brazil \sep
+  \href{mailto:sidneypepo@disroot.org}{{\color{x-acs-dark-red} \faIcon{envelope}} \texttt{sidneypepo@disroot.org}} \sep
+  {\color{x-acs-dark-red} \faIcon{phone-alt}} +55 (84) XXXXX-XXXX
+
+  % Optional vvvvv
+  % Job title: Cybersecurity researcher
+  % Credentials:
+
+  \noindent
+  \href{https://sidneypepo.com}{{\color{x-acs-dark-red} \faIcon{globe}} \texttt{sidneypepo.com}} \sep
+  \href{https://www.linkedin.com/in/sidneypepo}{{\color{x-acs-dark-red} \faIcon{linkedin}} sidneypepo} \sep
+  \href{https://github.com/sidneypepo}{{\color{x-acs-dark-red} \faIcon{github}} sidneypepo} \sep
+  \href{https://www.youtube.com/@sidneypepo}{{\color{x-acs-dark-red} \faIcon{youtube}} sidneypepo} \sep
+  \href{https://www.youtube.com/@sysb1n}{{\color{x-acs-dark-red} \faIcon{youtube}} sysb1n}
+
+  \href{https://orcid.org/0009-0009-6648-1461}{{\color{x-acs-dark-red} \faIcon{orcid}} 0009-0009-6648-1461} \sep
+  \href{https://www.researchgate.net/profile/Sidney-Pinto-2}{{\color{x-acs-dark-red} \faIcon{researchgate}} Sidney-Pinto-2} \sep
+  \href{https://lattes.cnpq.br/1727009327749804}{{\color{x-acs-dark-red} \faIcon{graduation-cap}} 1727009327749804}
+
+  \noindent{\color{x-acs-dark-red} \rule{\linewidth}{1pt}}
+\end{center}
+
+\setlength{\columnsep}{6.35mm}
+\setlength{\columnseprule}{1pt}
+\def\columnseprulecolor{\color{x-acs-dark-red}}
+\begin{multicols*}{2}
+#+end_export
+
+* *Summary*
+# Are you reading this? So here's a free writing tip)
+
+# Basically, you should use 1 or 2 paragraphs and their sentences should look
+# like this:
+# 1. Personal introduction
+# 2. Skills
+# 3. Achievements
+# 4. What I can offer
+
+*Detail-oriented cybersecurity researcher with a strong ten-year background in
+SecOps, focused on Purple Team operations, specialized in the investigation of
+critical widely deployed computational entities. Experienced in collaborating to
+complex projects by adopting the leading industry standards for continuous
+evaluation, deployment and management of network systems and services. Proven
+ability to mitigate threats, improve infrastructure resilience and investigate
+barely known security measures up to chipset-level. Committed to solve problems
+and lift up the quality baseline of results.*
+
+* Education
+- *2023-03 -- Present |* /Instituto Federal de Educação, Ciência e Tecnologia do
+  RN/ (IFRN) *|* Natal, Brazil
+
+  *Bachelor of Technology in Computer Systems Networking*
+  + Grade: 90.42.
+
+- *2020-02 -- 2021-07 |* /Instituto Metrópole Digital/ (IMD/UFRN) *|* Natal,
+  Brazil
+
+  *Associate's Degree in Computer Systems Networking*
+  + Grade: 84.57.
+
+* Work experience
+- *2024-01 -- Present |* /LaTARC Research Lab/ *|* Natal, Brazil
+
+  *SecOps & Researcher*
+  + Conducted and collaborated to various research projects. Relevant subjects
+    are:
+    * Analysis and exploitation of kernel-space vulnerabilities.
+
+    * Linux Kernel module development.
+
+    * Bypass and escaping of Trusted Execution Environments.
+
+    * Chipset-level firmware analysis and exploitation.
+
+    * Baseband architectures and security measures.
+
+    * Exploitation analysis at user-space vulnerabilities.
+
+    * Security analysis of containerized environments and runtimes.
+
+  + Bootstraped the Corisco datacenter servers with shift-left security and
+    incident response measures. Also setup the firewall, DNS and VPN core
+    services with modern, rock-solid, open-source frameworks.
+
+  + Deployed, managed and hardened more than ten web applications developed in
+    Centro de Soluções Aplicadas (CSA), achieving immediate resistance against
+    cyber attacks and incidents.
+
+- *2019-08 -- 2021-07 |* /GuardWeb/ *|* Remote
+
+  *Course instructor*
+  + Taught a practical lock picking online course for Red Team operators, which
+    impacted dozens of careers of cybersecurity professionals.
+
+* Languages
+#+attr_latex: :align l|l|c
+| *Language* | *Proficiency*        | *CEFR* |
+| Portuguese | Native or bilingual  | C2     |
+| English    | Professional working | C1     |
+| Russian    | Elementary           | A1     |
+| Spanish    | Elementary           | A1     |
+
+* Skills
+- *Teamwork and collaboration*: communication, leadership, problem solving,
+  autonomy, project management, agile methodologies and frameworks, documenting
+  and reporting (Project Management Softwares, LaTeX and office suites).
+
+- *SecOps*: systems administration, fine-tuning and hardening (Blue Team),
+  penetration testing (Red Team), basic pipeline and cloud (Azure and Oracle)
+  management, incident response, computer forensics, reverse engineering,
+  malware analysis.
+
+- *Programming and development*: assembly (x86/x86_64 and ARMv8-A), C, Emacs
+  Lisp, Python, Ruby, Shell Script (bash and POSIX), VCS (Git), HTML5, CSS3,
+  JavaScript/TypeScript, SQL.
+
+- *Audiovisual*: image and video editing, illustration design, visual effects
+  and compositing, sound design.
+
+* Certifications
+@@latex:\noindent@@ *2024-10 |* /Especialização Red Team/ *|* Hackers do Bem
+
+@@latex:\noindent@@ *2024-01 |* /CCNA: Introduction to Networks/ *|* Cisco
+Networking Academy
+
+@@latex:\noindent@@ *2019-11 |* /Google Cloud Certified in G Suite/ *|* G Suite
+
+* Awards and honors
+@@latex:\noindent@@ *2025-01 |* /Engaged with Red Hat course content and
+practiced hands-on labs/ *|* Red Hat Academy
+
+@@latex:\noindent@@ *2024-01 |* /Graduated with score higher than 75% on CCNA:
+Introduction to Networks final exam/ *|* Cisco Networking Academy
+
+@@latex:\noindent@@ *2020-05 |* /1st placed team at Maker Challenge from 1º
+Hackathon Espacial: Combatendo a Covid-19/ *|* Agência Espacial Brasileira (AEB)
+
+* Research papers
+- Journal articles
+  + *2026 |* /SKTRC: Targeted and Persistent Linux Kernel Event Tracing for
+    Vulnerability Analysis/
+
+    *Under review*
+
+- Unpublished papers
+  + *2025 |* /Análise de vulnerabilidades presentes nos mecanismos de segurança
+    dos chipsets Qualcomm de smartphones Android/
+
+    *Seminário de Orientação de Projeto Integrador 2025.1 -- IFRN*
+
+  + *2025 |* /Plataforma de baixo custo baseada em smartphones Android para
+    análise e exploração de vulnerabilidades em redes móveis LTE/
+
+    *Seminário de Orientação à Prática Profissional 2025.1 -- IFRN*
+
+  + *2024 |* /State of the Art and Taxonomy of Security Scanners for Protecting
+    Containerized Systems/
+
+    *Unpublished*
+
+  + *2024 |* /Plataformas para análise e exploração de vulnerabilidades em redes
+    móveis LTE/
+
+    *Metodologia Científica e Tecnológica 2024.1 -- IFRN*
+
+* Volunteer work
+- *2026-05 |* /DevOpsDays Natal 2026/ *|* Natal, Brazil
+
+  *Staff member*
+  + Responsible for the audio management and mixing during the event.
+
+- *2025-10 |* /Reid Morrison's IOStreams/ *|* Remote
+
+  *Contributor*
+  + Added support to PGP Elliptic Curve key generation.
+
+  + Enabled PGP passphrase-less key generation.
+
+- *2025-04 -- 2025-05 |* /Bjoern Kerler's EDL/ *|* Remote
+
+  *Contributor*
+  + Created and documented the EDL API for automating low-level EDL tasks.
+
+  + Fixed the PBL/BootROM extractor for non-standard devices.
+
+  + Improved installation scripts and documentation to support POSIX-compliant
+    operating systems.
+
+  + Patched a dependency incompatibility with modern GCC.
+
+  + Added Firehose programmers for two new devices.
+
+- *2024-10 |* /ENCOM 2024 -- XIV Conferência Nacional em Comunicações, Redes e
+  Segurança da Informação/ *|* Natal, Brazil
+
+  *Staff member*
+  + Responsible for guiding the listeners to the talk spaces during the event.
+
+- *2019-03 -- 2021-02 |* /Programa Aluno Tutor de Tecnologia Google/ *|* Natal,
+  Brazil
+
+  *Technology tutor*
+  + Taught and assisted students and teachers on the usage of technologies for
+    academic purposes, with special focus to the G Suite for Education platform.
+
+- *2017-11 |* /Palestra: Segurança da Informação/ *|* Natal, Brazil
+
+  *Speaker*
+  + Organized and presented a talk about the essentials of information security
+    for middle school students.
+
+- *2015-07 -- Present |* /YouTube/ *|* Remote
+
+  *Content creator*
+  + Engaged in producing free educational content, including lectures, guides
+    and tutorials, around diverse subjects, often related to introductory
+    computational topics.
+
+* References
+Available upon request.
+
+#+latex: \end{multicols*}
