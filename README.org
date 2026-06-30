@@ -1,9 +1,9 @@
 #+title: README
 #+author: Sidney PEPO
-#+date: [2026-06-22 Mon]
+#+date: [2026-06-30 Tue]
 
 * Sidney PEPO
-*Detail-oriented cybersecurity researcher with a strong ten-year background in*
+*Detail-oriented cybersecurity researcher with a strong 10-year background in*
 *SecOps, focused on Purple Team operations, specialized in the investigation of*
 *critical widely deployed computational entities. Experienced in collaborating to*
 *complex projects by adopting the leading industry standards for continuous*

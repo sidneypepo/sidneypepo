@@ -1,11 +1,11 @@
 #+title: README
 #+author: Sidney PEPO
-#+date: [2026-06-22 Mon]
+#+date: [2026-06-30 Tue]
 
 #+begin_quote
-For Brazilian readers: this page is a showcase of my Curriculum Vitae, which can
-be abbreviated as CV. That said, the usage of this abbreviation *IS NOT RELATED
-IN ANY WAY* with any of the many Brazilian narco-terrorist groups!
+*FOR BRAZILIAN READERS*: this page is a showcase of my Curriculum Vitae, which
+can be abbreviated as CV. That said, the usage of this abbreviation *IS NOT
+RELATED IN ANY WAY* with any of the many Brazilian narco-terrorist groups!
 
 I'm aware that this is a weird note, but Brazilian people *are killed* just for
 using such abbreviation, so I believe that doesn't hurt to add a note to be

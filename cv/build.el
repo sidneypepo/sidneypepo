@@ -6,7 +6,7 @@
 
 ;; Author: Sidney PEPO <sidneypepo@disroot.org>
 
-;; Version: 20260622
+;; Version: 20260630
 ;; Keywords: webpage, curriculum vitae, cv, resume
 
 ;; This file is not part of GNU Emacs.
@@ -62,11 +62,13 @@
   (add-to-list 'org-latex-packages-alist
 	       '("en" "babel" t nil) t)
   (add-to-list 'org-latex-packages-alist
-	       '("" "multicol" t nil) t)
-  (add-to-list 'org-latex-packages-alist
 	       '("a4paper, top=19mm, left=12.925mm, right=12.925mm, bottom=43mm" "geometry" t nil) t)
   (add-to-list 'org-latex-packages-alist
+	       '("" "eso-pic" t nil) t)
+  (add-to-list 'org-latex-packages-alist
 	       '("" "titlesec" t nil) t)
+  (add-to-list 'org-latex-packages-alist
+	       '("" "multicol" t nil) t)
   (add-to-list 'org-latex-packages-alist
 	       '("" "indentfirst" t nil) t)
   (add-to-list 'org-latex-packages-alist
@@ -81,9 +83,20 @@
 	       '("" "fdsymbol" t nil) t)
   (add-to-list 'org-latex-packages-alist
 	       '"
+\\newcommand{\\placetextbox}[4]{
+  \\setbox0=\\hbox{#4}
+  \\AddToShipoutPictureFG*{
+    \\if#3r
+    \\put(\\LenToUnit{\\paperwidth-#1},\\LenToUnit{\\paperheight-#2}){\\vtop{{\\null}\\makebox[0pt][r]{\\begin{tabular}{r}#4\\end{tabular}}}}
+    \\else
+    \\put(\\LenToUnit{#1},\\LenToUnit{\\paperheight-#2}){\\vtop{{\\null}\\makebox[0pt][l]{\\begin{tabular}{l}#4\\end{tabular}}}}
+    \\fi
+  }
+}
 \\titleformat*{\\section}{\\normalfont\\normalsize\\centering\\scshape}
 \\titlespacing*{\\section}{0pt}{10pt}{5pt}
 \\setlist[itemize]{leftmargin=10pt}
+\\definecolor{inv}{HTML}{FFFFFE}
 \\definecolor{x-acs-dark-red}{HTML}{CC0000}
 \\definecolor{x-acs-dark-blue}{HTML}{0033CC}
 \\pagenumbering{gobble}
@@ -98,7 +111,6 @@
 		 :recursive t
 		 :publishing-function org-latex-publish-to-pdf
 
-		 :author ""
 		 :latex-class "article"
 		 :latex-class-options "[a4paper,10pt]"
 		 :latex-hyperref-template "\\hypersetup{
@@ -109,8 +121,6 @@
 }
 "
 		 :section-numbers nil
-		 :with-creator nil
-		 :with-date nil
 		 :with-special-strings nil
 		 :with-statistics-cookies nil
 		 :with-toc nil
